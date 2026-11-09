@@ -1,7 +1,7 @@
 # SaaS-Subscription-Churn-Analysis-
 
 # 🎯 Overview
-This project focuses on analysing subscription patterns, customer churn, support performance, and feature usage for a fictional SaaS business scenario called RavenStack.The dashboard was developed using Microsoft Excel to explore business performance, identify patterns, and generate actionable insights.
+This project focuses on analyzing customer churn, support performance, and feature usage for a fictional SaaS business scenario called RavenStack.The dashboard was developed using Microsoft Excel to explore business performance, identify patterns, and generate actionable insights.
 
 # ❓Business Problem
 - How many accounts have churned?
