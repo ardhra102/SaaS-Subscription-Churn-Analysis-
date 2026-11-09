@@ -30,12 +30,12 @@ The synthetic dataset contains five interconnected tables:
 -	Slicers – Interactive filtering
 
 # 📌 Key Metrics:
-👥 Total Accounts: 500
-🔄 Churned Accounts: 110
-📉 Account Churn Rate: 22%
-📋 Total Subscriptions: 5,000
-⛔ Churned Subscriptions: 486
-📊  Subscription Churn Rate: 9.72%
+-  Total Accounts: 500
+-  Churned Accounts: 110
+-  Account Churn Rate: 22%
+-  Total Subscriptions: 5,000
+-  Churned Subscriptions: 486
+-  Subscription Churn Rate: 9.72%
 
 # 💡 Key Findings
 -	22% of accounts were marked as churned at some point.
